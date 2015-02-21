@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ratchet template page</title>
+
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Include the compiled Ratchet CSS --><link href='http://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
+    <link href="ratchet/css/ratchet.css" rel="stylesheet">
+    <style type="text/css">
+        #bg {
+          width:100%;
+          height: 100%;
+          /*background: url(/img/loginbg.jpg);*/
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          padding: 50px 10px 0px 10px;
+
+        }
+        .center {
+          display:block;
+          margin: 0 auto ;
+          text-align: center;
+        }
+        #login-img {
+          width: 100px;
+
+        }
+        #logo {
+          font-family: 'Quicksand', sans-serif;
+          font-size: 32px;
+          font-weight: 800;
+          color: blue;
+          text-shadow: 0px 1px black;
+          margin-bottom: 200px;
+        }
+        #login-caption {
+          font-family: 'Quicksand', sans-serif;
+          font-size: 32px;
+          font-weight: 100;
+          color: white;
+          text-shadow: 0px 1px black;
+          margin-bottom: 20px;
+        }
+        form label{
+          font-family: 'Quicksand', sans-serif;
+          font-weight: 100 !important;
+          color: gray;
+          font-size: 20px;
+        }
+        form input {
+          border: 0 !important;
+          border-bottom: 1px gray solid !important;
+          border-radius: 0 !important;
+          margin-top: 10px !important;
+        }
+    </style>
+    <!-- Include the compiled Ratchet JS -->
+    <script src="lib/ionic/js/ionic.js"></script> 
+    <script src="cordova.js"></script>
+    <script src="ratchet/js/ratchet.js"></script>
+  </head>
+  <body>
+    <div id="bg">
+      <form>
+        <label>Name</label>
+        <input id="name" type="text" placeholder="John Locke" />
+        <label>Phone</label>
+        <input id="phone" type="text" placeholder="(514)212-5555" />
+        <label>Email</label>
+        <input id="email" type="text" placeholder="John@businesscardz.me" />
+        <label>Address</label>
+        <input id="address" type="text" placeholder="1234 Wilderton st." />
+        <br></br>
+        <button class="btn btn-primary center">
+        <span class="icon icon-person" ></span>
+        Add Logo
+        </button>
+        <br></br>
+        <button class="btn btn-positive btn-block">Next: Design Your Card</button>
+      </form>
+    </div>
+
+
+
+
+  </body>
+</html>
