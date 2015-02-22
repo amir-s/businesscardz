@@ -19,10 +19,15 @@
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/com/ionicframework/myapp985800/R$xml.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/com/ionicframework/myapp985800/R.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/com/jamiestarke/webviewdebug/WebViewDebug.class \
+/Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/net/yoik/cordova/plugins/screenorientation/YoikScreenOrientation.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/nl/xservices/plugins/GooglePlus$1.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/nl/xservices/plugins/GooglePlus$2.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/nl/xservices/plugins/GooglePlus.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$1.class \
+/Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$2.class \
+/Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$3.class \
+/Users/amir/Projects/businesscardz/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar.class \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/dexedLibs/classes-c352f52a09a276e22498e5896c96bad9.jar \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/dexedLibs/classes-14ca87b2c07a002bc0dcf21467e7d104.jar \
 /Users/amir/Projects/businesscardz/platforms/android/ant-build/dexedLibs/android-support-v4-0dc6713d04bc85d0ddd8613a053556a9.jar \
